@@ -5,6 +5,8 @@ P2AF is a set of individual and group practices that optimizes for clarity, effi
 
 [What is a fork?](https://en.wikipedia.org/wiki/Fork_(software_development))
 
+P2AF is the project of the [Effective Institute](http://effective.institute/). [Contact us](http://effective.institute/contact) now.
+
 ## Resources
 
 - [Teal Dog - Management System](https://teal.dog)
