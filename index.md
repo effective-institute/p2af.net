@@ -11,10 +11,11 @@ P2AF is the project of the [Effective Institute](http://effective.institute/). [
 
 - [Teal Dog - Management System](https://teal.dog)
 
-## 2020 Presentations
+## Jaunary 2020 Presentation
 
-- [View Presentation PDF](presentation.pdf)
-- [View Presentation Keynote](keynote.html)
+- [PDF](presentation.pdf)
+- [Handout](handout.pdf)
+- [HTML](keynote.html)
 
 ## Video Lessons
 
