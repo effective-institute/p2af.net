@@ -21,6 +21,12 @@
 
 [Request](#request)
 
+[TealDog](#tealdog)
+
+[Holacracy](#holacracy)
+
+[Purpose To Action Framework](#purpose-to-action-framework)
+
 **Advanced Terms**
 
 [The Four Pathways](#the-four-pathways)
@@ -107,6 +113,19 @@ In Holacacy, "Out of Role" is called "Individual Initiative" or "Individual Acti
 
 When processing a Topic (Agenda Item) in a Tactical Meeting, you will be asked to use the four pathways to work towrd resolving your concern (Tension).  The four pathways are: Share Information, Request Information, Request a Project or Action, and Set a new expectation.  To get your concern resolved, you can use as many of the pathways as many times as you want in any order.  See Tactical Meeting.
 
+### TealDog ###
+
+TealDog is a software-as-a-service tool which supports self-management practice.  It is mainly used to store "structural" information about an organization, such as circles, roles, role assignments, as well as operational information like projects.  It also has an extensive Tactical Meeting interface which can be used to facilitate tactical meetings.  While TealDog has some support for projects, it is not intended to be a replacment for Project Management tools like Asana or OmniFocus.  TealDog is developed by (Jonathan Yankovich)[https://github.com/tensiondriven] and (Topher Hunt)[https://github.com/topherhunt] at the (Effective Institute)[http://effective.institute].
+
+### Holacracy ###
+
+Holacracy is a business management framework designed for self-organizing teams which defines an organization in terms of Roles instead of People.  Holacacy practice is divided into two main areas of Operations and Governance.  Operations, also known as Tactical, deals with getting the work done in the organization.  Governance deals with teh structure of the organization, and helps clarify which roles are responsible for which aspects of the business.  Holacracy defines a Goverance Meeting Process which uses Integrated Decision Making to allow a group to change the structure of the organization without the need for a centralized decision maker.
+
+### Purpose To Action Framework ###
+
+*Working name; aka Clarity Framework*
+
+Purpose To Action Framework (Clarity Framework) is a fork (modified version) of Holacracy with simplified language and processes focused on being easy to learn and use.  It is comprised mainly of rules from Holacracy for organizational productivity and GTD (Getting Things Done) methodology for personal productivity.  Unlike Holacracy, which uses Governance Meetings to update the organization's circles and roles, the authority to change circles and roles is given to the Circle Lead of a given circle.  Purpose To Action Framework allows organizations to experiment with "Teal" principles like Wholeness, Evolution, and bring your whole self to work - without the large commitment and time and energy investment needed to adopt a more complete solution like Holacracy.
 
 ## Advanced Terms
 
