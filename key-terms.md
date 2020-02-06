@@ -1,10 +1,42 @@
-# Key Terms in Purpose to Action Framework
+# Key Terms of Self-Management
+
+**Basic Terms**
+
+[Circle](#circle)
+- [Circle Lead](#circle-lead)
+- [Facilitator](#facilitator)
+- [Secretary](#secretary)
+
+[Role](#role)
+- [Purpose](#purpose)
+- [Accountability](#accountability)
+
+[Condition](#condition)
+
+[Tactical Meeting](#tactical-meeting)
+
+[Project](#project)
+
+[Action](#action)
+
+[Request](#request)
+
+**Advanced Terms**
+
+[The Four Pathways](#the-four-pathways)
+
+[Domain](#domain)
+
+[Policy](#policy)
+
+[Strategy](#strategy)
+
+# Definitions
 
 ## Basic Terms
 
 ### Role
 
-A Role is a description of a particular type of work in an organization.  Every Role has a name can have a Purpose and one or more Acccountabilties, Domains, and Policies.  Every role also belongs to a Circle. Most people who are filling roles only need to think about the Purpose and Accountabilties of the role at first.
 
 #### Purpose
 
@@ -16,7 +48,9 @@ An ongoing expectation of a Role.  Accountabilities are written with a "gerund" 
 
 See "Advanced Terms" for Domain and Policy.
 
-### Circle (Team)
+### Circle
+
+*aka Team*
 
 A Circle is a group of roles that share a common Purpose.  Every Circle is also a Role, so has all of the attributes of a Role (Purpose, Accountabilities, Domains, Policies).  Unlike a Role, a Circle has other Roles in it and can also have a Policy.  Circles also have some special roles (Core Roles) which help the circle function.  They are:
 
@@ -43,7 +77,9 @@ The Secretary of a circle is responsible for scheduling the meetings of the circ
 
 Note: Holacracy also has a "Rep Link" (Representative Link) core role, which is omitted here.  Organiztions operating accoridng to Holacracy have a rep link, which is accountable for representing the concerns of roles in a circle to the broader circle, and serves to balance the power of the Circle Lead.
 
-### Condition (Agreement)
+### Condition
+
+*aka Agreement*
 
 A Condition is a requirement for participation or action.  A Role may have conditions for who can fill it.  The organization may also have conditions for who can work in the organization.  These conditions are also called "Working Agreements" or just "Agreements.".  You can request conditions of anyone at time, and if the condition isn't met, you can decide how you want to react.  This is the same thing we do in everyday life.
 
@@ -59,7 +95,9 @@ A Project is a description of a piece of work that has a concrete outcome.  A Pr
 
 An action is simply the next concrete thing to do on a given project.  If the thing being done has more than one step, then it is a Project, not an Action. Actions can exist on their own, and like projects, can be assigned to a role and a person.  The term "Next Action" describes the next concrete step toward the outcome of a given project.  The size of action often depends on the person taking it, for example, for a project like "Sink repaired", the next action could be "Call Repair Man" or "Get phone book" depending on the person.
 
-### Project Request
+### Request
+
+*aka Project Request*
 
 When one role wants another role to do something, they do so by making a project request.  During a Tactical Meeting, you may hear facilitator ask, "Do you want to request a project?"  When accepting a project, you must decide if the project fits one of your roles.  If it does, you must accept it regardless of resources like available time and money.  You have the authority to decide the priority and next action, so accepting a project does not necessarily mean that you will do anything about it beyond consider it.  There's a bit more nuance to this, but for basic purposes this is a good way to think about requests for projects.
 
